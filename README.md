@@ -1,3 +1,3 @@
 # react-ShoppingList
 
-Created with create-react-master for an implementation of an shopping app
+Created with create-react-app for an implementation of an shopping app
